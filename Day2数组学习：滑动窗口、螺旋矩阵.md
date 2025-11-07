@@ -5,13 +5,11 @@
 |209.长度最小子数组      | [力扣题目链接](https://leetcode.cn/problems/minimum-size-subarray-sum/)      |
 |904.水果成篮   | [力扣题目链接](https://leetcode.cn/problems/fruit-into-baskets/)        |
 |59.螺旋矩阵II  |[力扣题目链接](https://leetcode.cn/problems/spiral-matrix-ii/description/)
-|54. 螺旋矩阵 |[力扣题目链接](https://leetcode.cn/problems/spiral-matrix/description/)
-|58. 区间和   |[力扣题目链接](https://kamacoder.com/problempage.php?pid=1070)|
-|27.移除元素      | [力扣题目链接](https://leetcode.cn/problems/remove-element/description/)      |
-| 26.删除排序数组中的重复项   | [力扣题目链接](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)        |
-|283. 移动零|[力扣题目链接](https://leetcode.cn/problems/move-zeroes/)
-|844. 比较含退格的字符串|[力扣题目链接](https://leetcode.cn/problems/backspace-string-compare/)
-|977. 有序数组的平方|[力扣题目链接](https://leetcode.cn/problems/squares-of-a-sorted-array/)|
+|54.螺旋矩阵 |[力扣题目链接](https://leetcode.cn/problems/spiral-matrix/description/)
+|58.区间和   |[力扣题目链接](https://kamacoder.com/problempage.php?pid=1070)|
+|27.开发商      | [力扣题目链接](https://kamacoder.com/problempage.php?pid=1070/)      |
+
+
 
 ## 滑动窗口总结
 1.暴力求解的时间复杂度为O(n^2)
