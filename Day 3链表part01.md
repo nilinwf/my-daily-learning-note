@@ -20,14 +20,24 @@ class ListNode:
 ~~~
 # 203.移除链表元素
   1.构造虚拟头结点:dummy_head = ListNode(next = head)
+  
   2.设计链表：
+  
     1.获取下表为index的节点：判断方位，用循环构造指针寻找下标
+    
     2.插入头结点：需要构造new_node，把new_node指向dummy_head.next（因为dummy_head.next指向head头结点），然后再把dummy_head.next指向new_node与此同时，修改self.size+=1
+    
     3.插入尾部节点:构造循环以找到尾部节点，当尾部curr.next为空时，找到尾结点，在尾结点加上新节点，并更新self.size += 1
+    
     4.在索引位置加入：同上循环找到index节点
+    
     5.在索引位置删除：同上循环找到index节点
+    
   3.翻转链表：
+  
     1.双指针解法：需要三个指针，注意顺序，
+    
     2.递归解法：太难了暂时还不是很理解
+    
 
   
